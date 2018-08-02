@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "eslintConfig": {
+    "extends": "void"
+  },
+  "dependencies": {
+    "eslint-config-void": "^1.0.0"
+  }
+}
